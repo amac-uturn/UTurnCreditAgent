@@ -4,5 +4,6 @@
   "domain_name": "d19smcc411vk38.cloudfront.net",
   "url": "https://d19smcc411vk38.cloudfront.net",
   "deployed_at": "2025-11-20T20:51:28.214098",
-  "status": "deploying"
+  "status": "live",
+  "verified_at": "2025-11-20T21:05:00Z"
 }
