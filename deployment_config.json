@@ -1,0 +1,53 @@
+{
+  "deployed_at": "2025-11-20T20:19:36Z",
+  "region": "us-east-1",
+  "account_id": "269610887017",
+  "agents": {
+    "authorization": {
+      "name": "uturn_authorization_agent",
+      "arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_authorization_agent-wAauASEhv8",
+      "endpoint_arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_authorization_agent-wAauASEhv8/runtime-endpoint/DEFAULT",
+      "status": "READY",
+      "capabilities": [
+        "Customer identity verification",
+        "Fraud detection and status checks",
+        "Card lock/unlock operations",
+        "Security settings management",
+        "Suspicious transaction reporting"
+      ]
+    },
+    "account": {
+      "name": "uturn_account_agent",
+      "arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_account_agent-55xVu6Cv86",
+      "endpoint_arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_account_agent-55xVu6Cv86/runtime-endpoint/DEFAULT",
+      "status": "READY",
+      "capabilities": [
+        "Account balance inquiries",
+        "Transaction history retrieval",
+        "Payment processing",
+        "Statement generation",
+        "Rewards balance management",
+        "Autopay configuration"
+      ]
+    },
+    "sales": {
+      "name": "uturn_sales_agent",
+      "arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_sales_agent-GcC04WEVGN",
+      "endpoint_arn": "arn:aws:bedrock-agentcore:us-east-1:269610887017:runtime/uturn_sales_agent-GcC04WEVGN/runtime-endpoint/DEFAULT",
+      "status": "READY",
+      "capabilities": [
+        "Product catalog browsing",
+        "Credit card eligibility checks",
+        "Personalized offers",
+        "Credit card applications",
+        "Product comparisons",
+        "Upgrade recommendations"
+      ]
+    }
+  },
+  "observability": {
+    "dashboard_url": "https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#gen-ai-observability/agent-core",
+    "cloudwatch_enabled": true,
+    "xray_tracing_enabled": true
+  }
+}
