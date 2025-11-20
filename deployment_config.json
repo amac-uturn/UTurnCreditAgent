@@ -76,5 +76,29 @@
     "role_arn": "arn:aws:iam::269610887017:role/UTurnAgentHandlerRole",
     "api_id": "sr6egyg843",
     "api_endpoint": "https://sr6egyg843.execute-api.us-east-1.amazonaws.com/prod/invoke"
+  },
+  "voice_chat_infrastructure": {
+    "dynamodb_tables": [
+      "UTurnVoiceSessions",
+      "UTurnVoiceMessages"
+    ],
+    "appsync_role_arn": "arn:aws:iam::269610887017:role/UTurnAppSyncServiceRole",
+    "appsync": {
+      "error": "'AppSync' object has no attribute 'create_graph_ql_api'"
+    },
+    "lambda_role_arn": "arn:aws:iam::269610887017:role/UTurnVoiceHandlerRole",
+    "websocket": {
+      "api_id": "jjmdrlszmg",
+      "websocket_url": "wss://jjmdrlszmg.execute-api.us-east-1.amazonaws.com/prod",
+      "connection_lambda_arn": "arn:aws:lambda:us-east-1:269610887017:function:UTurnVoiceConnectionHandler",
+      "message_lambda_arn": "arn:aws:lambda:us-east-1:269610887017:function:UTurnVoiceMessageHandler"
+    }
+  },
+  "voice_chat_ui": {
+    "bucket": "uturn-voice-chat-ui-20251120221511",
+    "distribution_id": "E2RMU45EXBERM",
+    "url": "https://d4qgpaytsda94.cloudfront.net",
+    "deployed_at": "2025-11-20T22:15:48.896029",
+    "files": 7
   }
 }
