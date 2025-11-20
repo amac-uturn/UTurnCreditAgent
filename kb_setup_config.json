@@ -1,0 +1,20 @@
+{
+  "kb_bucket": "uturn-kb-documents-20251120211452",
+  "kb_role_arn": "arn:aws:iam::269610887017:role/AmazonBedrockKnowledgeBaseRole-202511202114",
+  "kb_role_name": "AmazonBedrockKnowledgeBaseRole-202511202114",
+  "created_at": "2025-11-20T21:15:04.170227",
+  "collections": [
+    {
+      "name": "uturn-customer-kb",
+      "id": "ui6ph7o2ebqe0zmwbrs0",
+      "endpoint": "https://ui6ph7o2ebqe0zmwbrs0.us-east-1.aoss.amazonaws.com",
+      "arn": "arn:aws:aoss:us-east-1:269610887017:collection/ui6ph7o2ebqe0zmwbrs0"
+    },
+    {
+      "name": "uturn-sales-kb",
+      "id": "th5zdpwkjxpczuh5l4r4",
+      "endpoint": "https://th5zdpwkjxpczuh5l4r4.us-east-1.aoss.amazonaws.com",
+      "arn": "arn:aws:aoss:us-east-1:269610887017:collection/th5zdpwkjxpczuh5l4r4"
+    }
+  ]
+}
