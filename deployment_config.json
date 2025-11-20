@@ -49,5 +49,32 @@
     "dashboard_url": "https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#gen-ai-observability/agent-core",
     "cloudwatch_enabled": true,
     "xray_tracing_enabled": true
+  },
+  "knowledge_bases": {
+    "customer_account": {
+      "id": "CHLRUJKM5Q",
+      "arn": "arn:aws:bedrock:us-east-1:269610887017:knowledge-base/CHLRUJKM5Q",
+      "name": "UTurn-Customer-Account-KB",
+      "used_by": [
+        "authorization",
+        "account"
+      ]
+    },
+    "sales_product": {
+      "id": "FNW2BSTB0J",
+      "arn": "arn:aws:bedrock:us-east-1:269610887017:knowledge-base/FNW2BSTB0J",
+      "name": "UTurn-Sales-Product-KB",
+      "used_by": [
+        "sales"
+      ]
+    }
+  },
+  "updated_at": "2025-11-20T21:30:00Z",
+  "lambda_backend": {
+    "function_name": "UTurnAgentHandler",
+    "function_arn": "arn:aws:lambda:us-east-1:269610887017:function:UTurnAgentHandler",
+    "role_arn": "arn:aws:iam::269610887017:role/UTurnAgentHandlerRole",
+    "api_id": "sr6egyg843",
+    "api_endpoint": "https://sr6egyg843.execute-api.us-east-1.amazonaws.com/prod/invoke"
   }
 }
