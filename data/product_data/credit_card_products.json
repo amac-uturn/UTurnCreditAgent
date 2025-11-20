@@ -1,0 +1,203 @@
+[
+  {
+    "product_id": "CARD-001",
+    "product_name": "UTurn Student Card",
+    "category": "Student",
+    "description": "Perfect for students building credit. No annual fee and easy approval.",
+    "features": [
+      "No annual fee",
+      "1% cash back on all purchases",
+      "No foreign transaction fees",
+      "Free credit score monitoring",
+      "Late fee waiver for first late payment"
+    ],
+    "apr_range": "18.99% - 24.99%",
+    "annual_fee": 0,
+    "credit_limit_range": "$500 - $2,000",
+    "rewards_program": {
+      "type": "Cash Back",
+      "rate": "1% on all purchases"
+    },
+    "eligibility": {
+      "minimum_credit_score": 0,
+      "minimum_income": 0,
+      "student_status_required": true
+    },
+    "benefits": [
+      "Build credit history",
+      "Financial literacy resources",
+      "Upgrade path to premium cards"
+    ]
+  },
+  {
+    "product_id": "CARD-002",
+    "product_name": "UTurn Cash Back Card",
+    "category": "Cashback",
+    "description": "Earn generous cash back on everyday purchases with no annual fee.",
+    "features": [
+      "No annual fee",
+      "2% cash back on groceries and gas",
+      "1.5% cash back on all other purchases",
+      "0% intro APR for 12 months on purchases",
+      "No rotating categories"
+    ],
+    "apr_range": "15.99% - 21.99%",
+    "annual_fee": 0,
+    "credit_limit_range": "$2,000 - $10,000",
+    "rewards_program": {
+      "type": "Cash Back",
+      "rate": "Up to 2% on select categories, 1.5% on everything else"
+    },
+    "eligibility": {
+      "minimum_credit_score": 670,
+      "minimum_income": 25000,
+      "student_status_required": false
+    },
+    "benefits": [
+      "Simple cash back structure",
+      "No annual fee",
+      "Fraud protection",
+      "Purchase protection"
+    ]
+  },
+  {
+    "product_id": "CARD-003",
+    "product_name": "UTurn Rewards Plus Card",
+    "category": "Rewards",
+    "description": "Maximize your rewards with points that never expire and flexible redemption.",
+    "features": [
+      "3x points on dining and entertainment",
+      "2x points on travel",
+      "1x points on all other purchases",
+      "50,000 point sign-up bonus after $3,000 spend in 3 months",
+      "No foreign transaction fees",
+      "Points never expire"
+    ],
+    "apr_range": "13.99% - 19.99%",
+    "annual_fee": 95,
+    "credit_limit_range": "$5,000 - $15,000",
+    "rewards_program": {
+      "type": "Points",
+      "rate": "Up to 3x points on select categories"
+    },
+    "eligibility": {
+      "minimum_credit_score": 700,
+      "minimum_income": 40000,
+      "student_status_required": false
+    },
+    "benefits": [
+      "Travel insurance",
+      "Purchase protection",
+      "Extended warranty",
+      "24/7 concierge service",
+      "Points transfer to airline partners"
+    ]
+  },
+  {
+    "product_id": "CARD-004",
+    "product_name": "UTurn Premium Card",
+    "category": "Premium",
+    "description": "Elite benefits and luxury perks for discerning cardholders.",
+    "features": [
+      "5x points on travel booked through UTurn Travel",
+      "3x points on dining",
+      "1x points on all other purchases",
+      "75,000 point sign-up bonus",
+      "$300 annual travel credit",
+      "Global Entry or TSA PreCheck credit",
+      "Priority Pass lounge access"
+    ],
+    "apr_range": "11.99% - 16.99%",
+    "annual_fee": 450,
+    "credit_limit_range": "$10,000 - $30,000",
+    "rewards_program": {
+      "type": "Points",
+      "rate": "Up to 5x points on travel and dining"
+    },
+    "eligibility": {
+      "minimum_credit_score": 750,
+      "minimum_income": 75000,
+      "student_status_required": false
+    },
+    "benefits": [
+      "Comprehensive travel insurance",
+      "Trip delay reimbursement",
+      "Lost luggage insurance",
+      "Rental car insurance",
+      "24/7 premium concierge",
+      "No foreign transaction fees",
+      "Complimentary hotel elite status"
+    ]
+  },
+  {
+    "product_id": "CARD-005",
+    "product_name": "UTurn Business Card",
+    "category": "Business",
+    "description": "Powerful rewards and tools for small business owners.",
+    "features": [
+      "2x points on all business purchases",
+      "5% cash back on office supplies and telecom",
+      "Employee cards at no additional cost",
+      "Expense management tools",
+      "Integration with accounting software",
+      "0% intro APR for 9 months"
+    ],
+    "apr_range": "12.99% - 18.99%",
+    "annual_fee": 0,
+    "credit_limit_range": "$15,000 - $50,000",
+    "rewards_program": {
+      "type": "Points/Cash Back",
+      "rate": "Up to 5% cash back on select business categories"
+    },
+    "eligibility": {
+      "minimum_credit_score": 680,
+      "minimum_income": 50000,
+      "business_required": true
+    },
+    "benefits": [
+      "Detailed expense reports",
+      "Employee spending controls",
+      "Business insurance options",
+      "Extended payment terms",
+      "Dedicated business support"
+    ]
+  },
+  {
+    "product_id": "CARD-006",
+    "product_name": "UTurn Travel Elite Card",
+    "category": "Travel",
+    "description": "Ultimate travel rewards and benefits for frequent travelers.",
+    "features": [
+      "10x points on hotels and rental cars",
+      "5x points on flights",
+      "3x points on other travel",
+      "100,000 point sign-up bonus",
+      "$250 annual travel credit",
+      "Free checked bags on partner airlines",
+      "Priority boarding",
+      "Travel accident insurance"
+    ],
+    "apr_range": "10.99% - 15.99%",
+    "annual_fee": 195,
+    "credit_limit_range": "$20,000 - $50,000",
+    "rewards_program": {
+      "type": "Miles",
+      "rate": "Up to 10x miles on travel purchases"
+    },
+    "eligibility": {
+      "minimum_credit_score": 720,
+      "minimum_income": 60000,
+      "student_status_required": false
+    },
+    "benefits": [
+      "No foreign transaction fees",
+      "Trip cancellation insurance",
+      "Travel delay reimbursement",
+      "Lost luggage reimbursement",
+      "Rental car insurance",
+      "Airport lounge access",
+      "Airline fee credits",
+      "Hotel elite status"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "FAQ-001",
+    "category": "Account Management",
+    "question": "How do I activate my new credit card?",
+    "answer": "You can activate your new UTurn credit card by calling our automated activation line at 1-800-UTURN-01, using our mobile app, or logging into your online account. Activation typically takes less than 2 minutes."
+  },
+  {
+    "doc_id": "FAQ-002",
+    "category": "Security",
+    "question": "What should I do if my card is lost or stolen?",
+    "answer": "Immediately call our 24/7 fraud hotline at 1-800-FRAUD-00 to report your card as lost or stolen. We'll lock your card and send you a replacement within 3-5 business days. You're not responsible for any fraudulent charges made after reporting."
+  },
+  {
+    "doc_id": "FAQ-003",
+    "category": "Payments",
+    "question": "When is my payment due?",
+    "answer": "Your payment due date is shown on your monthly statement and in your online account. Payments are typically due 25 days after your statement closing date. To avoid late fees, payments must be received by 5 PM ET on the due date."
+  },
+  {
+    "doc_id": "FAQ-004",
+    "category": "Rewards",
+    "question": "How do I redeem my rewards?",
+    "answer": "UTurn rewards can be redeemed through your online account or mobile app. Options include: statement credits, direct deposit to your bank account, gift cards, travel bookings, or merchandise. Most redemptions process within 1-2 business days."
+  },
+  {
+    "doc_id": "FAQ-005",
+    "category": "Credit Limit",
+    "question": "Can I request a credit limit increase?",
+    "answer": "Yes! You can request a credit limit increase through your online account or by calling customer service. We review requests based on your payment history, credit utilization, and overall credit profile. Most requests are reviewed within 24 hours."
+  }
+]

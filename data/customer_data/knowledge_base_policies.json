@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "POLICY-001",
+    "category": "Fraud Protection",
+    "title": "UTurn Fraud Protection Policy",
+    "content": "UTurn provides comprehensive fraud protection for all cardholders. Our advanced monitoring systems detect suspicious activity 24/7. If fraud is suspected, we'll contact you immediately. You have zero liability for unauthorized charges. Our fraud resolution specialists work quickly to resolve issues and protect your account."
+  },
+  {
+    "doc_id": "POLICY-002",
+    "category": "Dispute Resolution",
+    "title": "Transaction Dispute Process",
+    "content": "If you notice an incorrect charge, you have 60 days from the statement date to dispute it. Contact us at 1-800-UTURN-01 or through your online account. We'll investigate the dispute and issue a provisional credit within 10 business days. Final resolution typically takes 30-90 days depending on merchant response."
+  },
+  {
+    "doc_id": "POLICY-003",
+    "category": "Privacy",
+    "title": "Customer Privacy Policy",
+    "content": "UTurn takes your privacy seriously. We never sell your personal information to third parties. Your data is encrypted and protected by industry-leading security measures. We only share information as required by law or as necessary to process your transactions. You can review our full privacy policy at uturn.com/privacy."
+  }
+]
