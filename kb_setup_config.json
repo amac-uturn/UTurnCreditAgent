@@ -16,5 +16,23 @@
       "endpoint": "https://th5zdpwkjxpczuh5l4r4.us-east-1.aoss.amazonaws.com",
       "arn": "arn:aws:aoss:us-east-1:269610887017:collection/th5zdpwkjxpczuh5l4r4"
     }
+  ],
+  "knowledge_bases": [
+    {
+      "name": "UTurn-Customer-Account-KB",
+      "id": "CHLRUJKM5Q",
+      "arn": "arn:aws:bedrock:us-east-1:269610887017:knowledge-base/CHLRUJKM5Q",
+      "collection_id": "ui6ph7o2ebqe0zmwbrs0",
+      "data_source_id": "W8KAWUHA3Z",
+      "ingestion_job_id": "TKT1EDPRHI"
+    },
+    {
+      "name": "UTurn-Sales-Product-KB",
+      "id": "FNW2BSTB0J",
+      "arn": "arn:aws:bedrock:us-east-1:269610887017:knowledge-base/FNW2BSTB0J",
+      "collection_id": "th5zdpwkjxpczuh5l4r4",
+      "data_source_id": "0K1BP3LEZZ",
+      "ingestion_job_id": "JRYO58N90D"
+    }
   ]
 }
